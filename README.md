@@ -1,10 +1,12 @@
 # Synthetic_Data_Generation_Project
 
-## 👥 Our Core Contributors
+## 👥 Our Team Members
 
-| Name | Role / Focus | GitHub / Contact | Working Style |
+| Name | Role / Focus | Email | Linked In Profile |
 | :--- | :--- | :--- | :--- |
-| **[Member Name 1]** | Frontend Lead / React Specialist | [@GitHubHandle](https://github.com/handle) | Prefers detailed written feedback. Daily 1:1 check-ins. |
-| **[Member Name 2]** | Backend Engineer / Database Architect | [LinkedIn Profile](link) | Best reached via Slack DMs. Focus time 9am-12pm (no meetings). |
-| **[Member Name 3]** | Data Scientist / Model Deployment | [Email Address](mailto:email@example.com) | Highly visual learner. Open to impromptu video calls for blockers. |
-| **[Member Name 4]** | Product Manager / Feature Prioritization | [Portfolio Link](link) | Available for synchronous meetings in the afternoons. |
+| Areeba Hanif| Project Lead |aribahanif010@gmail.com | [Linked-In](https://www.linkedin.com/in/areeba-hanif-a89241297) |
+| Rimsha Attaullah | Generative AI Engineer |rimsha9905@gmail.com | [Linked-In](https://www.linkedin.com/in/rimsha-attaullah/) |
+| Sameer Ahmad| Statistical Analyst |sameerahmada677@gmail.com | [Linked-In](https://www.linkedin.com/in/sameer-ahmad-6a4435341) |
+| Muhammad Awais| Model Analyst |awaisali1628@gmail.com | [Linked-In](https://www.linkedin.com/in/awais-ali-099ba7373) |
+| Asima Shafiq| Documentation & Visualization Lead |asimashafiq534@gmail.com | [Linked-In](https://www.linkedin.com/in/asima-shafiq-637a682b6?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
+| Areeba Ashraf| Documentation & Visualization Lead |areebaashraf589@gmail.com| [Linked-In](https://www.linkedin.com/in/areeba-ashraf-1b54b5373) |
